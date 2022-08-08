@@ -33,14 +33,8 @@ Always acting to meet the expectations of teams and end customers with disciplin
 <a href="https://www.w3schools.com/cssref/default.asp">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="Logo do CSS"/>
 </a>
-<a href="https://www.python.org/">
-    <img height="32" src="https://user-images.githubusercontent.com/95655712/180702006-7e4dfa3a-08c3-40b1-bd33-823b511ca75f.png" alt="Logo do Python"/>
-</a>
 <a href="https://www.oracle.com/java/technologies/javase-documentation.html">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Logo do Java">
-</a>
-<a href="https://devdocs.io/c/language/do">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo da Linguagem C"/>
 </a>
 <a href="https://spring.io/">
     <img height="32" src="https://user-images.githubusercontent.com/95655712/180702959-c14f7ebb-b22e-411f-b971-439edfa77b74.png" alt="Logo do Spring"/>
@@ -54,9 +48,6 @@ Always acting to meet the expectations of teams and end customers with disciplin
 <a href="https://git-scm.com/">
    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Javascript"/>
 </a>
-<a href="https://www.kernel.org/doc/html/latest/#">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Logo do Linux">
-</a>
 <a href="https://docs.docker.com/get-started/overview/">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Logo do Docker">
 </a>
@@ -64,3 +55,12 @@ Always acting to meet the expectations of teams and end customers with disciplin
     <img height="32" src="https://user-images.githubusercontent.com/95655712/180701754-72eeac75-0b8a-4231-ab74-953e38977626.png" alt="Logo do React">
 </a>
  </p>
+ 
+ 
+##
+
+<div align="center">
+  <a href="https://github.com/Jota-Erre-JR/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jota-Erre-JR&layout=compact&langs_count=7&theme=dracula"/>
+    </div>
+
