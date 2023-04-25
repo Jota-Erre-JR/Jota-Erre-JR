@@ -58,9 +58,4 @@ Always acting to meet the expectations of teams and end customers with disciplin
  
  
 ##
-
-<div align="center">
-  <a href="https://github.com/Jota-Erre-JR/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jota-Erre-JR&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
-
+ 
