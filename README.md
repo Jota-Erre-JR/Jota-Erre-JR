@@ -11,15 +11,47 @@
 <div align="justify">
 Hi! I'm Julio Correa. Specialist in Software Engineering and Bachelor in Chemical Engineering. After several years working in the oil and gas market developing applications and solutions, for the areas of construction and assembly projects, supply chain planning, logistics, maintenance processes, I changed the focus of my career. Now I seek to develop solutions that can meet the needs of our society in the areas of health, education, research and development.
 
-Always acting to meet the expectations of teams and end customers with discipline and engagement in tasks. Constantly acquiring knowledge and accepting new challenges, keeping myself connected with new technologies and processes that involve innovations in solutions to the various current problems.
+Always acting to meet the expectations of teams and end customers with discipline and engagement in tasks. Constantly acquiring knowledge and accepting new challenges, keeping myself connected with new technologies and processes that involve innovations in solutions to the current demands.
 </div><h1 align="center"></h1>
 
+<div>
+   <h3>In Progress Chalenges</h3>
+ <div>
+ <table border="1">
+  <tr>
+       <td>  <img height="50" src="https://github.com/Jota-Erre-JR/Jota-Erre-JR/assets/95655712/418000a6-a348-465c-8aee-14daf81d6871"> </td>
+       <td>Santander Bootcamp 2023 - Data Science with Python</td>
+       <td> <img height="20" src="https://github.com/Jota-Erre-JR/Jota-Erre-JR/assets/95655712/80916d9b-103d-423f-8509-bc628d104163"></td>
+   </tr>
+  <tr>
+      <td> <img height="50" src="https://github.com/Jota-Erre-JR/Jota-Erre-JR/assets/95655712/c21e1007-4a5a-42a4-8b14-7528e60940a8"></td>
+      <td>Power Tech powered by iFood | Data Science</td>
+      <td> <img height="20" src="https://github.com/Jota-Erre-JR/Jota-Erre-JR/assets/95655712/80916d9b-103d-423f-8509-bc628d104163"></td>
+  </tr>
+  </table>
+ </div>
+</div>
  
-***Improving:*** [@devsuperior](https://devsuperior.com.br/) [@acnelio](https://github.com/acenelio)
-
-| ***Bootcamp Spring***  | ***Bootcamp React***  |
-| :---: | :---: |
-| [![image](https://user-images.githubusercontent.com/95655712/180681376-59b94281-84dd-4806-ade3-350adb3e61d9.png)](https://devsuperior.com.br/bootcamp-spring) |[![image](https://user-images.githubusercontent.com/95655712/180681989-4a008249-32e6-45f6-96c4-10c6d23baf08.png)](https://devsuperior.com.br/bootcamp-react) |
+### Completed Challenges
+<div>
+ <table border="1">
+  <tr>
+      <td><a href="https://learn.devsuperior.com/certificados/6815951" target="_blank" >
+         <img height="50" src="https://github.com/Jota-Erre-JR/Jota-Erre-JR/assets/95655712/2b03dc97-cc62-4b46-be2b-6a07bdebbb71"></td>
+      <td>Bootcamp Spring</td>
+          <td>
+              <img height="50" width="70" src="https://github.com/Jota-Erre-JR/Jota-Erre-JR/assets/95655712/c6f58e72-788d-47c8-9cae-b96b469b7f7e">
+          </td>
+  </tr>
+  <tr>
+    <td><a href="https://learn.devsuperior.com/certificados/6715951" target="_blank">
+         <img height="50" width="50" src="https://github.com/Jota-Erre-JR/Jota-Erre-JR/assets/95655712/f3830c78-d8c7-4099-8ce0-d78eb50b2212"></td>
+    <td>Bootcamp React</td>
+    <td><img height="50" width="70" src="https://github.com/Jota-Erre-JR/Jota-Erre-JR/assets/95655712/b923a849-4a65-4386-8e2f-e65179750466">
+    </td>
+  </tr>
+ </table>
+</div>
 
 <h2 align="center">Technologies</h2>
 <p align="center">
@@ -55,7 +87,6 @@ Always acting to meet the expectations of teams and end customers with disciplin
     <img height="32" src="https://user-images.githubusercontent.com/95655712/180701754-72eeac75-0b8a-4231-ab74-953e38977626.png" alt="Logo do React">
 </a>
  </p>
- 
  
 ##
  
